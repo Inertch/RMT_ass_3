@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #fafafa; color: #222; }
+.wrap { max-width: 960px; margin: 0 auto; padding: 16px; }
+header { border-bottom: 1px solid #ccc; padding-bottom: 8px; margin-bottom: 12px; }
+nav a { margin-right: 12px; }
+.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.card { background: #fff; border: 1px solid #ddd; padding: 8px; margin-bottom: 8px; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ddd; padding: 4px 8px; text-align: left; }
